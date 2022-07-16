@@ -1,16 +1,26 @@
 {
-  "name": "test-book",
+  "name": "@jsassertivo/cli",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
+  "bin": {
+    "jsassertivo": "cli.js"
+  },
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --watchAll"
+    "test:watch": "jest --watchAll",
+    "user:generate": "node commands/generate-user.js",
+    "db:create": "node commands/create-database.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.2"
+    "@babel/core": "^7.11.6",
+    "babel-jest": "^26.3.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "faker": "^5.5.3",
+    "jest": "^26.4.2"
   }
 }

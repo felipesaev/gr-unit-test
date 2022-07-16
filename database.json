@@ -1,0 +1,132 @@
+[
+  {
+    "email": "iamthe@admin.com",
+    "userName": "admin",
+    "password": "admin",
+    "name": "Ad",
+    "lastName": "Min",
+    "uid": "a3e880c3-f66b-46af-aedb-efa233fc9890",
+    "avatar": "https://cdn.fakercloud.com/avatars/g3d_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Willow8@yahoo.com",
+    "userName": "Alison_Anderson",
+    "password": "TmxwhpkoxlodmCw",
+    "name": "Ezra",
+    "lastName": "Denesik",
+    "uid": "a91d49d4-e1b4-4f45-ad43-0a4f94d1c8c7",
+    "avatar": "https://cdn.fakercloud.com/avatars/juaumlol_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Dagmar73@gmail.com",
+    "userName": "Brianne.Mayer",
+    "password": "LySQUR52w9yQb0b",
+    "name": "Gerson",
+    "lastName": "Mosciski",
+    "uid": "da83afe9-440c-48e9-9520-65c3c738a5ca",
+    "avatar": "https://cdn.fakercloud.com/avatars/markjenkins_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Hadley_Konopelski@gmail.com",
+    "userName": "Robbie12",
+    "password": "mg9MttMrs5wAbJq",
+    "name": "Ardella",
+    "lastName": "Homenick",
+    "uid": "fd75ee2c-dcbe-4502-bbf9-c15a5930fbdf",
+    "avatar": "https://cdn.fakercloud.com/avatars/cggaurav_128.jpg",
+    "role": "ADMIN"
+  },
+  {
+    "email": "Joyce0@gmail.com",
+    "userName": "Lamont_Robel",
+    "password": "he2pxjop718pYW4",
+    "name": "Judson",
+    "lastName": "Cronin",
+    "uid": "c35282c6-73d5-426e-9f92-afd610b1d746",
+    "avatar": "https://cdn.fakercloud.com/avatars/santi_urso_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Gwendolyn.Hilll@yahoo.com",
+    "userName": "Monserrat_DAmore36",
+    "password": "70NFG0MrpVPhSa1",
+    "name": "Myron",
+    "lastName": "Gulgowski",
+    "uid": "1350f2e8-45a9-4ed1-9333-eb95dc071fdb",
+    "avatar": "https://cdn.fakercloud.com/avatars/okandungel_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Davin.Medhurst@yahoo.com",
+    "userName": "Walton.Johnston63",
+    "password": "4DoRK04RRpdnqWb",
+    "name": "Marcella",
+    "lastName": "Ortiz",
+    "uid": "9aea1868-4b12-465c-bef4-35e2d2d3b89d",
+    "avatar": "https://cdn.fakercloud.com/avatars/kerihenare_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Bridgette80@hotmail.com",
+    "userName": "Fern_Champlin",
+    "password": "yzY8ElmmP8ms5FC",
+    "name": "Kenyon",
+    "lastName": "Hessel",
+    "uid": "805502f4-99c2-4ef6-ac52-ff7175a91a26",
+    "avatar": "https://cdn.fakercloud.com/avatars/reideiredale_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Kaitlin22@hotmail.com",
+    "userName": "Kaitlin.Lemke",
+    "password": "BVFMLrL0qbjzRul",
+    "name": "Aniyah",
+    "lastName": "Nienow",
+    "uid": "6495d231-f623-4be7-8d58-8dcf74169da5",
+    "avatar": "https://cdn.fakercloud.com/avatars/gu5taf_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Leanne_Treutel@gmail.com",
+    "userName": "Kyler48",
+    "password": "Fwqu75qpeqASlIG",
+    "name": "Leta",
+    "lastName": "Tromp",
+    "uid": "79de5dfe-46e3-41ee-b746-cd3f03c31a5a",
+    "avatar": "https://cdn.fakercloud.com/avatars/dzantievm_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Maurine.Rippin20@hotmail.com",
+    "userName": "Erik_Flatley",
+    "password": "UJNSaQKrc53XN4k",
+    "name": "Percy",
+    "lastName": "Kautzer",
+    "uid": "477f37f6-b18e-4c29-8f9e-59bc4d9be62d",
+    "avatar": "https://cdn.fakercloud.com/avatars/benefritz_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Anais_Koss33@yahoo.com",
+    "userName": "Noel25",
+    "password": "krMFZZeSyGcI4Wd",
+    "name": "Stanford",
+    "lastName": "Little",
+    "uid": "bf8b9ba4-aeaa-4d58-b608-5f76d2ca982e",
+    "avatar": "https://cdn.fakercloud.com/avatars/michaelmartinho_128.jpg",
+    "role": "USER"
+  },
+  {
+    "email": "Cody12@hotmail.com",
+    "userName": "Kendall12",
+    "password": "CRsjiNojkNn6bV0",
+    "name": "Rubie",
+    "lastName": "Gleason",
+    "uid": "623895a3-1576-44f0-9a88-5e54bd937931",
+    "avatar": "https://cdn.fakercloud.com/avatars/dev_essentials_128.jpg",
+    "role": "USER"
+  }
+]
