@@ -1,7 +1,7 @@
 import { toJSON } from '../database/parser.js';
 
 // Mensagens de validação
-const MESSAGES = {
+export const MESSAGES = {
   missingArgs: () => 'Você precisa fornecer os argumentos corretos para a CLI',
   missingArg: arg => `Você precisa informar o argumento ${arg}`
 };
