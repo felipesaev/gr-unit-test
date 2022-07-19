@@ -20,11 +20,14 @@ const mockUser = {
 loadDatabase.mockResolvedValue([mockUser]);
 
 it('should find a user when find your UID', async () => {
+  expect.assertions(1);
   const user = await getUserByUid('1350f2e8-45a9-4ed1-9333-eb95dc071fdb');
   expect(user).toEqual(mockUser)  
 });
 
 it('should throws an error if the user is not found', async () => {
+  expect.assertions(1);
+
   try {
     await getUserByUid('uui-not-exist')
   } catch (error) {

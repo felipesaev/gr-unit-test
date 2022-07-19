@@ -27,6 +27,8 @@ const userData = {
 }
 
 it('should create a user correctly', async () => {
+  expect.assertions(4);
+  
   const user = await createUser(userData)
 
   expect(file.loadDatabase).toHaveBeenCalledTimes(1)
@@ -41,6 +43,8 @@ it('should create a user correctly', async () => {
 })
 
 it('should create a user correctly with admin role ', async () => {
+  expect.assertions(4);
+
   const user = await createUser({...userData, role: ROLES.ADMIN})
 
   expect(file.loadDatabase).toHaveBeenCalledTimes(1)
