@@ -24,7 +24,6 @@ const userData = {
   userName: 'AnotherUser',
   name: 'User',
   lastName: 'another'
-
 }
 
 it('should create a user correctly', async () => {
