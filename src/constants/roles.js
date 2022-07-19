@@ -1,5 +1,5 @@
 // Permissões
-const ROLES = {
+export const ROLES = {
   ADMIN: 'ADMIN',
   USER: 'USER'
 };
