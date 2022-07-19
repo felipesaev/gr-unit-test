@@ -1,6 +1,6 @@
-import { getUserByUid } from "../../../src/database/user/read";
-import { loadDatabase } from "../../../src/database/file";
-import { MESSAGES } from "../../../src/database/user/read";
+import { getUserByUid } from "database/user/read";
+import { loadDatabase } from "database/file";
+import { MESSAGES } from "database/user/read";
 
 jest.mock("../../../src/database/path.js");
 jest.mock("../../../src/database/file.js");

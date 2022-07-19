@@ -1,7 +1,6 @@
-import { createUser } from "../../../src/database/user/create";
-import * as file from '../../../src/database/file';
-import { ROLES } from '../../../src/constants/roles'
-import path from '../../../src/database/path'
+import { createUser } from "database/user/create";
+import * as file from 'database/file';
+import { ROLES } from 'constants/roles'
 
 jest.mock('../../../src/database/file.js');
 jest.mock('../../../src/database/path.js', () => null)
